@@ -1,0 +1,6 @@
+author: Gov
+name: Player join and leave custom messages
+api: 3.0.0
+version: 1.0.0
+main: message\main
+description: join and leave messages.
